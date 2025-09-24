@@ -1,2 +1,2 @@
 # BlockTania
-Unser Offizielles Forum für unseren Blocktania.de Server.  Hier könnt ihr eure Fehler vom Modpack Reporten.
+Unser Offizielles Repositorium für unseren Blocktania.de Server.  Hier könnt ihr z.b eure Fehler vom Modpack Reporten.
